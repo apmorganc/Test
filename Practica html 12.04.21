@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GATOS</title>
+</head>
+<body>
+
+<h1>Todo sobre los gatos</h1>
+<h2>Informacion relacionada a gatos</h2>
+<h3></h3>
+<h4></h4>
+
+<p>El gato doméstico (Felis silvestris catus), llamado popularmente gato, y de forma coloquial:
+<ul>
+<li>minino</li>
+<li>michino</li>
+<li>michi</li>
+<li>micho</li>
+<li>mizo</li>
+<li>miz</li>
+<li>morroño</li>
+<li>o morrongo</li></ul>
+entre otros nombres, es un mamífero carnívoro de la familia Felidae. Es una subespecie domesticada por la convivencia con el ser humano.</p>
+
+<p>El nombre actual en muchas lenguas proviene del latín vulgar catus. Paradójicamente, catus aludía a los gatos salvajes, mientras que los gatos domésticos, en latín, eran llamados felis.</p>
+
+<p>Como resultado de mutaciones genéticas, cruzamiento y selección artificial, hay numerosas razas. Algunas, como la raza Sphynx o la Peterbald están desprovistas de pelo; otras carecen de cola, como los gatos de la raza Manx, y algunas tienen coloraciones atípicas, como los llamados gatos azules.</p>
+
+<p>El gato se comunica a través de vocalizaciones. Las más populares son su característico maullido y el ronroneo, pero puede aullar, gemir, gruñir y bufar.11​ Además, adopta poses o expresiones que informan, a sus congéneres, sus enemigos o sus cuidadores, de su ánimo o sus intenciones.</p>
+
+<p>Junto con el perro, es el animal doméstico más popular, como mascota, como ayuda en la lucha contra roedores o ambas cosas.</p>
+
+<p>Por su amplio abanico de presas potenciales, por su alta eficiencia como depredador, y por su elevado éxito reproductivo –especialmente si se suministra artificialmente alimento a las colonias sin tomar medidas adicionales para limitar su fertilidad– el gato doméstico está incluido en la lista 100 de las especies exóticas invasoras más dañinas del mundo12​ de la Unión Internacional para la Conservación de la Naturaleza..</p>
+
+ <p>Haz click <a href="#">aqui</a> para mas fotos de gatos</p>
+ 
+<h3>Caracteristicas de los gatos:</h3>
+<main>
+ 
+
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Collage_of_Six_Cats-02.jpg" alt="Varias razas de gatos." style="width:500px;height:600px;"></a>
+
+  <p>Cosas que aman los gatos:</p>
+  <ul>
+    <li>cat nip</li>
+    <li>punteros</li>
+    <li>calor</li>
+    <li>mimos</li>
+    <li>su cama</li>
+      <p>Cosas que odian los gatos:</p>
+  <ol start=3>
+    <li>tratamientos de pulgas</li>
+    <li>truenos</li>
+    <li>perros</li>
+  </ol>
+  </ul>
+  
+<h4>Paginas adicionales de informacion:</h4>
+
+<a href="https://es.wikipedia.org/wiki/Felis_silvestris_catus">link text</a>
+
+
+  </ol>
+
+
+</main>
+
+</body>
+</html>
